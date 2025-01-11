@@ -17,8 +17,10 @@ This is not the main tool in my current job, I'm trying to develop it in my free
 
 I mainly use Pycharm, but also Github Codespaces and Replit to save some keystrokes with their AI assistant
 
+
 * [![pycharm][pycharm-badge]][pycharm-url]
-* [![excel][excel-badge]][excel-url]
+* [![codespaces][codespaces-badge]][codespaces-url]
+* [![replit][replit-badge]][replit-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,6 +52,7 @@ It depends on which Python interpreter you may use. By using a cloud environment
 ## Usage
 
 You can run any part of the code by using your preferred Python interpreter
+
 You could also clone the repository and use any text search tool (Sublime Text, Notepad++) to quickly find something in the cheatsheet
 
 
@@ -84,11 +87,12 @@ Project Link: [https://github.com/oliveiraleosilva87/python-cheatsheet](https://
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/screenshot.png
-[pycharm-badge]: [https://img.shields.io/badge/tableau-0769AD?style=for-the-badge&logo=tableau&logoColor=white](https://img.shields.io/badge/pycharm-0769AD?style=for-the-badge&logo=pycharm&logoColor=white&color=%230D5243)
-[pycharm-url]: https://www.jetbrains.com/pycharm/
-[excel-badge]: https://img.shields.io/badge/ms_excel-1D6F42?style=for-the-badge&logo=ms_excel&logoColor=white
-[excel-url]: https://www.microsoft.com/microsoft-365/excel
+[pycharm-badge]: https://img.shields.io/badge/pycharm-1D6F42?style=for-the-badge&logo=pycharm&logoColor=white
+[pycharm-url]: https://www.microsoft.com/microsoft-365/excel
+[codespaces-badge]: https://img.shields.io/badge/codespaces-blue?style=for-the-badge&logo=github
+[codespaces-url]: https://github.com/features/codespaces
+[replit-badge]: https://img.shields.io/badge/replit-gray?style=for-the-badge&logo=replit
+[replit-url]: https://replit.com/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
